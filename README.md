@@ -1,2 +1,2 @@
 # ejercicios_aut
-Ejercicios de Automatización de prática
+Ejercicios de Automatización de práctica
